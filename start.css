@@ -1,0 +1,23 @@
+body {
+    background: url(level.png);
+    right: -50%;
+}
+
+.container {
+    color: rgb(57, 199, 224);
+    font-size: 4em;
+}
+
+.box_href {
+    text-decoration: none;
+}
+
+.levels {
+    color: rgb(78, 255, 196);
+}
+
+.lever {
+    list-style-type: none;
+    margin-top: 20px;
+    font-size: 1.4em;
+}
